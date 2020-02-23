@@ -1,0 +1,28 @@
+body{
+   border: 20px solid#bdc3c7;
+   width: 80%;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+}
+}
+
+body{
+    font-family: source sans pro;
+}
+
+h2{
+    color:#2c3e50;
+}
+
+.date{
+    color:#3498db;
+}
+
+#alignment{
+    margin-left: 23px;
+}
+
+.border{
+    border-left: 4px solid #bdc3c7;
+}
